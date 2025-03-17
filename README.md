@@ -16,6 +16,11 @@ Additionally you can choose between two gameplay modes in the in-game mod settin
 The entire mod can also be disabled in the mod settings if you don't want to repeatedly disable/reenable the mod.
 
 ## How to Use
+1. Download the latest `AutoBattle.jar` from the Releases Page
+2. Place it into your [ModTheSpire](https://github.com/kiooeht/ModTheSpire) `mods` folder
+3. Enable the mod in [ModTheSpire](https://github.com/kiooeht/ModTheSpire)
+
+## Hwo to build from source
 1. Compile within a Maven project as defined by [ModTheSpire](https://github.com/kiooeht/ModTheSpire)
-2. Place the built .jar file in your mods folder (refer again to [ModTheSpire](https://github.com/kiooeht/ModTheSpire))
+2. Place the built  `AutoBattle.jar` file in your mods folder (refer again to [ModTheSpire](https://github.com/kiooeht/ModTheSpire))
 
