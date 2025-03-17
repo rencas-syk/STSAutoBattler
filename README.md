@@ -20,7 +20,7 @@ The entire mod can also be disabled in the mod settings if you don't want to rep
 2. Place it into your [ModTheSpire](https://github.com/kiooeht/ModTheSpire) `mods` folder
 3. Enable the mod in [ModTheSpire](https://github.com/kiooeht/ModTheSpire)
 
-## Hwo to build from source
+## How to build from source
 1. Compile within a Maven project as defined by [ModTheSpire](https://github.com/kiooeht/ModTheSpire)
 2. Place the built  `AutoBattle.jar` file in your mods folder (refer again to [ModTheSpire](https://github.com/kiooeht/ModTheSpire))
 
