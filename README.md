@@ -1,5 +1,5 @@
 # STSAutoBattler
-My old (now removed) AutoBattler mod for Slay The Spire. <br>
+My old (now removed) AutoBattle mod for Slay The Spire. <br>
 Based on [FrostPrime's AutoBattler video](https://www.youtube.com/watch?v=oyHDG7M8wmo) <br>
 Similar mods were created by [Ocean](https://steamcommunity.com/sharedfiles/filedetails/?id=2893878944) [(GitHub)](https://github.com/OceanUwU/autospire) and [kiooeht](https://steamcommunity.com/sharedfiles/filedetails/?id=2893894998).
 
