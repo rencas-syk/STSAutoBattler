@@ -1,0 +1,10 @@
+{
+  "modid": "AutoBattle",
+  "name": "AutoBattle",
+  "author_list": ["HighQualityToast"],
+  "description": "Adds an AutoBattler. Can be disabled in the mod config.",
+  "version": "1.2.5",
+  "sts_version": "10-04-2022",
+  "mts_version": "3.30.0",
+  "dependencies": ["basemod"]
+}
