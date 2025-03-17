@@ -6,7 +6,7 @@
     <!-- Change These to match your mod -->
     <groupId>autobattle</groupId>
     <artifactId>AutoBattle</artifactId>
-    <version>1.2.1</version>
+    <version>1.2.5</version>
     <packaging>jar</packaging>
     <name>AutoBattle</name>
     <description>Simple AutoBattle Mod.</description>
